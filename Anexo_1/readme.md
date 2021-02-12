@@ -1,7 +1,9 @@
-# Carpeta del Anexo 1: reproducibilidad de resultados
+# Anexo 1: Do-files para asegurar reproducibilidad de resultados
 
 **Autor:** [Jean Pierre Bolaños](www.linkedin.com/in/jeanpierrebolanoshurtado) 
+
 **Parte de:** Tesis presentada para optar al Título profesional de Negocios Internacionales
+
 **Institución:** Universidad del Pacífico (Lima, Perú)
 
 
