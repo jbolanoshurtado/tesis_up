@@ -6,6 +6,8 @@
 
 **Institución:** Universidad del Pacífico (Lima, Perú)
 
+Copyright (CC-BY): Jean Pierre Bolaños Hurtado
+
 
 ## Descripción del contenido y derechos de autor
 
@@ -13,7 +15,7 @@ Esta carpeta contiene los do-files para ejecutar la revisión de la base de dato
 
 El propósito de estos archivos es el de asegurar la replicabilidad y reproducibilidad de los resultados presentados en la Tesis, y la autoría y propiedad intelectual de estos pertenece al autor bajo las mismas condiciones de derechos de autor que la tesis.
 
-Estos do-files son compartidos libremente bajo las mismas condiciones de derechos de author que la tesis y son para uso personal exclusivamente. En caso de emplearlos para trabajo derivado, por favor incluya la cita siguiente:
+Estos do-files son compartidos libremente bajo las mismas condiciones de derechos de author que la tesis. En caso de emplearlos para trabajo derivado, por favor incluya la cita siguiente:
 
    Bolaños, J.P. (2021) *Internacionalización Progresiva de Empresas Exportadoras: el rol de la toma de decisiones, la formación de rutinas y la búsqueda y elección de alternativas*, Tesis de licenciatura, Universidad del Pacífico, Lima.
 
